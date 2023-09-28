@@ -1,0 +1,7 @@
+requests
+datetime
+pandas
+numpy
+gunicorn
+Flask
+google-cloud-storage==2.1.0
