@@ -56,7 +56,7 @@ def get_gamesight_data():
         }
         headers = {
             "accept": "application/json",
-            "Authorization": "7e0ee6511ea8f08932e71a5910e936ef",
+            "Authorization": #Auth Key,
             "X-Api-Version": "3.0.0",
             "content-type": "application/json"
         }
